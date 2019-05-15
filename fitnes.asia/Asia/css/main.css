@@ -1,0 +1,130 @@
+.global{
+     width: 960px;
+    height: 883px;
+    margin:auto;
+    background-image:url(back.png);
+    background-repeat: no-repeat; 
+} 
+.logo{
+    margin-left: 48px;
+}
+.head{
+    width: 950px;
+    height: 205px;
+}
+.photo{
+    width: 50%;
+    float: left;
+}
+.name{
+    color: white;
+    float: left;
+    padding-top: 150px;
+    padding-left: 310px  
+}
+.Contact{
+    width: 60px;
+    height: 17px;
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 10px;
+    font-weight: bold;         
+}
+.Nr{
+    width: 70px;
+    height: 12px;
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 8.5px;
+    font-weight: 400;
+}
+.info{
+    width: 95px;
+    height: 9px;
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 9px;
+    font-weight: 400;
+}
+.photobox1{
+    margin-left: 67px;
+}
+.country1{  
+    width: 270px;
+    height: 188px;
+    padding-left:;
+    padding-right:6px;
+    float: left;
+}
+.indiaimg{
+    width: 270px;
+    height: 188px;
+}
+.textbox1{
+    margin-left: 185px;
+}
+.india{
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline;
+    padding-right: 241px;
+}
+.nepal{
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline;
+    padding-right:234px;
+}
+.tibet{
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline;}
+
+.photobox2{
+    margin-left: 67px;
+    margin-top: 50px;
+}
+.bhutan{
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline;
+    padding-right: 215px;
+}
+
+.srilanka{
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline;
+    padding-right: 215px;
+}
+
+.maldives{
+    color: #e6e6e6;
+    font-family: Tahoma;
+    font-size: 15px;
+    font-weight: 400;
+    display: inline;
+}
+.bottom{
+    margin-top: 180px;
+    margin-left: 402px;
+}
+.copy{width: 171px;
+height: 11px;
+color: #e6e6e6;
+font-family: Tahoma;
+font-size: 10px;
+font-weight: 400;
+}
+
+
